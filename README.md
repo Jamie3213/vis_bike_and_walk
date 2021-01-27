@@ -1,4 +1,4 @@
-Tidy Tuesday - Bike & Walk Commutes
+Bike & Walk Commutes
 ================
 Jamie Hargreaves
 
